@@ -1,0 +1,6 @@
+{
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.tabSize": 4,
+    "deepscan.enable": true,
+}
