@@ -1,3 +1,4 @@
+A continuation of this project can be found at [https://github.com/TimvandenBelt/DutchLegislationComplexity](https://github.com/TimvandenBelt/DutchLegislationComplexity). This new project will improve the code base, research and makes it accessible and visual by transforming it into a website.
 
 # Paving A Path To Simplify Legislation Using AI
 #### An empirical complexity analysis of the Dutch legislation
